@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(212, 223, 237);
+}
+.attribution { 
+    font-size: 11px; text-align: center; 
+}
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+}
+.card{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    width: 240px;
+    min-height: 300px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 15px;
+}
+.image{
+    width: 212px;
+    margin-top: 14px;
+    border-radius: 12px;
+}
+h4{
+    font-family: 'Work Sans', sans-serif;
+    text-align: center;
+    text-align: justify;
+    padding: 0 20px;
+}
+p{
+    font-family: 'Work Sans', sans-serif;
+    font-size: smaller;
+    text-align: center;
+    margin-top: 1px;
+    text-align: justify;
+    padding: 0 20px;
+    
+}
